@@ -27,6 +27,7 @@ public class Fb {
 	i.findElement(By.id("email")).sendKeys(data[0]);
 	i.findElement(By.id("pass")).sendKeys(data[1]);
 	i.findElement(By.id("loginbutton")).click();
+	
 		
 
 	}

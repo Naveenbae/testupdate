@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Newone.Task1">
+      <class name="org.nav.pages.Tc001login">
         <methods>
-          <include name="Scrollbar"/>
+          <include name="Logintest"/>
         </methods>
-      </class> <!-- Newone.Task1 -->
+      </class> <!-- org.nav.pages.Tc001login -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
